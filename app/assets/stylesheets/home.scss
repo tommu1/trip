@@ -1,0 +1,28 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.header{
+    height:180px;
+    width:100%;
+   background-color:blue;
+}
+
+h1{
+    color:red;
+    padding:65px 0 0 42%;
+}
+
+.main{
+    height:500px;
+  background-image:url("/kyuutai.jpg");
+  background-size:100%;
+    width:100%;
+    
+}
+
+.footer{
+    height:180px;
+    width:100%;
+    background-color:green;
+}
